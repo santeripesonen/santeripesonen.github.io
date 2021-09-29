@@ -1,0 +1,18 @@
+body {
+    background-image: url("LA.jpg");
+    background-color: indigo;
+}
+img {
+    width: 30%;
+}
+h1 {
+    border-style: solid;
+    padding: 10px;
+    margin: auto;
+}
+h2 {
+    border-style: solid;
+}
+p {
+    border-style: solid;
+}
