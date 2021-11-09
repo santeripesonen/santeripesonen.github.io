@@ -1,0 +1,17 @@
+.center{
+    text-align: center;
+}
+
+.full-width{
+    width: 100%;
+}
+.border{
+    margin: 10px;
+}
+.small-image{
+    width:100%;
+    max-width:350px;
+}
+.product-text{
+    text-align: justify;
+}
