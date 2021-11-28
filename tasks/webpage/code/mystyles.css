@@ -15,7 +15,14 @@ body {
 footer{
     padding-top: 10px;
 }
+.no-left-margin{
+    margin-left: 0px !important; 
+}
 
+iframe.youtubeplayer{
+    width: 560px;
+    height: 315px;
+}
 
 .nav-link{
     color:rgb(51, 255, 0);
